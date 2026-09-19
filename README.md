@@ -36,8 +36,8 @@ Edit the `bot.js` file and update the `config` object at the top:
 
 ```js
 const config = {
-  host: 'your.server.ip',
-  port: 25565,
+  host: 'Cp6042.aternos.me.ip',
+  port:36907,
   username: 'YourBotName',
   version: '1.20.4',
   auth: 'offline', // Use 'microsoft' for Microsoft accounts
