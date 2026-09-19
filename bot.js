@@ -3,8 +3,8 @@ const { auth } = require('minecraft-launcher-core');
 
 // Configuration
 const config = {
-  host: 'serverip',
-  port: 12345,
+  host: 'Cp6042.aternos.me',
+  port: 36907,
   username: 'Onlinebot247', // Bot's in-game username
   version: '1.20.4',
   auth: 'offline', // Using offline mode for private servers
